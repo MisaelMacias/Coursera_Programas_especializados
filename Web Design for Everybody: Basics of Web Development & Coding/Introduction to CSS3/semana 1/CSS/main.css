@@ -1,0 +1,31 @@
+header{
+  background:#B9A4A0;
+}
+
+h1{
+  text-align:center;
+  color:#FFFFFF;
+  font-variant:small-caps;
+  font-size:250%;
+  font-family:serif;
+}
+
+h2{
+  color:#3B812D;
+  font-variant:small-caps;
+  font-size:200%;
+}
+
+section{
+  background:#8D978B;
+}
+
+a{
+  background:#DEBCBC;
+  color:#2C5034;
+  font-size:150%;
+}
+
+img{
+  display:none;
+}

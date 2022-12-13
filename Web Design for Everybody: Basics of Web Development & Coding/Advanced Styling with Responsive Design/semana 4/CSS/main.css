@@ -1,0 +1,26 @@
+body {
+		margin: 2%;
+		background-color: #b3b3b3;
+}
+
+#image {
+    line-height:650px;
+		width: 575px;
+    height: 650px;
+		border:15px solid #666666;
+		margin:0 auto;
+    background-color: #888888;
+    background-image: url('');
+    background-repeat: no-repeat;
+    color:#FFFFFF;
+    text-align: center;
+    background-size: 100%;
+    margin-bottom:25px;
+    font-size: 150%;
+
+}
+
+.preview {
+		margin-left:10%;
+    border: 1% solid black;
+}
