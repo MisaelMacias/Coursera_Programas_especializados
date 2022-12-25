@@ -164,8 +164,6 @@ private:
   Graph (Adjacency Matrix representation)
   +infinity values in the matrix indicates that there is no edge
   between vertexes
-  I am not using vector of vectors, because:
-  http://stackoverflow.com/questions/17259877/1d-or-2d-array-whats-faster
  */
 class Graph {
 public:
@@ -271,7 +269,6 @@ private:
 
 /*
   Generate random graphs according to the Erdos-Renyi model: G(n,p)
-  http://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93R%C3%A9nyi_model
  */
 class GraphGenerator {
 public:
