@@ -7,11 +7,7 @@
 #include <vector>
 #include <memory>
 
-/*
-  There is no `using namespace std;` because:
-  - http://llvm.org/docs/CodingStandards.html#do-not-use-using-namespace-std
-  - http://stackoverflow.com/questions/1452721/why-is-using-namespace-std-considered-bad-practice
- */
+using namespace std;
 
 
 /*
